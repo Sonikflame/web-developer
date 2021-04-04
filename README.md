@@ -1,6 +1,6 @@
 # web-developer
 
-Учебный проект доступен по адресу [https://sonikflame.github.io/web-developer/](https://sonikflame.github.io/the-witcher/).
+Учебный проект доступен по адресу [https://sonikflame.github.io/web-developer/](https://sonikflame.github.io/web-developer/).
 
 
 ## В проекте использовались языки:
